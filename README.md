@@ -13,8 +13,8 @@ Website for **Concept Home Interior**, a family furniture manufacturing business
 - `index.html`: the whole site in one file (CSS and JS inline; Three.js r128 from cdnjs)
 
 ## Before going live
-- Replace `03XX-XXXXXXX` and `92XXXXXXXXXX` (WhatsApp number) in `index.html`
-- Replace `[Your city]`
+- Replace `0312-5445484` and `923125445484` (WhatsApp number) in `index.html`
+- Replace `Islamabad`
 - Confirm materials in the spec sheet
 - Add real furniture photos
 
